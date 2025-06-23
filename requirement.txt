@@ -1,0 +1,7 @@
+streamlit 
+google-generativeai
+python-dotenv
+seaborn
+matplotlib
+numpy
+scikit-learn
